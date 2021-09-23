@@ -3,6 +3,10 @@
 Created on Thu Sep 23 12:54:40 2021
 
 @author: ysun
+
+code from https://www.youtube.com/watch?v=JwSS70SZdyM
+freeCodeCamp.org
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_1_simple_stock_price
 """
 
 import yfinance as yf
